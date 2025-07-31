@@ -190,6 +190,13 @@ body {
     left: 10px;
   }
 
+  .text1 {
+  font-size: 0.75rem;
+  position: absolute;
+  color: white;
+  font-family: sans-serif;
+  top: -50%;
+
   .heart {
     height: 50px;
     width: 50px;
