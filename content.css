@@ -81,10 +81,8 @@ body {
 }
 
 .sixth-text {
-    font-size: 5rem;
+    font-size: 2.5rem;
     position: absolute;
-    left: 25%;
-    top: 25%;
     opacity: 0;
     color: #f0eba3;
     animation-name: fadeIn;
@@ -231,9 +229,9 @@ body {
   }
 
   .sixth-text {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     left: 10%;
-    top: 20%;
+    top: 10%;
   }
 
   .imgs {
